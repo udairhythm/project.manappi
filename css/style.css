@@ -1,0 +1,118 @@
+.logo {
+  width: 18%;
+}
+
+header {
+  display: flex;
+  padding: 15px;
+  justify-content: space-between;
+}
+
+
+/* ログイン・サインアップ */
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 20px;
+}
+
+  .learning {
+    display: flex;
+    font-size: 20px;
+    margin: 10px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+  }
+
+  .manabu_btn {
+    display: flex;
+    font-size: 20px;
+    margin: 10px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+  }
+
+  .teaching {
+    display: flex;
+    font-size: 20px;
+    margin: 10px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+  }
+
+  .login_btn {
+    display: flex;
+    font-size: 20px;
+    margin: 10px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #EC407A;
+    border: 2px solid #EC407A;
+  }
+
+  .login_btn:hover {
+    background: #EC407A;
+    color: #fff;
+  }
+  
+
+  .signup_btn {
+    display: flex;
+    font-size: 20px;
+    margin: 10px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    background: #EC407A;
+    color: #fff;
+  }
+
+  .signup_btn:hover {
+    background: #fff;
+    color: #EC407A;
+    border: 2px solid #EC407A;
+  }
+
+
+/* Hero */
+.hero-main {
+  width: 100%;
+}
+
+
+/* メインコンテンツ */
+.about {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  font-size: 40px;
+  color: #EC407A;
+}
+
+.introduction {
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/* 3列ピクチャー */
+.card_wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.card_list {
+  margin: 30px;
+}
+
