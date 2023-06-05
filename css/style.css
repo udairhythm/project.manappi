@@ -48,13 +48,14 @@ header {
 
   .login_btn {
     display: flex;
-    font-size: 20px;
+    font-size: 16px;
     margin: 10px;
     width: 100px;
     padding: 10px;
     border-radius: 10px;
     justify-content: center;
     color: #EC407A;
+    background-color: #fff;
     border: 2px solid #EC407A;
   }
 
@@ -66,7 +67,7 @@ header {
 
   .signup_btn {
     display: flex;
-    font-size: 20px;
+    font-size: 16px;
     margin: 10px;
     width: 100px;
     padding: 10px;
@@ -74,6 +75,7 @@ header {
     justify-content: center;
     background: #EC407A;
     color: #fff;
+    border: 2px solid #EC407A;
   }
 
   .signup_btn:hover {

@@ -1,0 +1,3 @@
+main: EC407A
+dark: B4004E
+light: FF77A9
