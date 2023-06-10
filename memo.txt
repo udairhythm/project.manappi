@@ -1,3 +1,6 @@
 main: EC407A
 dark: B4004E
 light: FF77A9
+
+Chat GPT
+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
