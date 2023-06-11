@@ -1,0 +1,31 @@
+.logo {
+width: 18%;
+}
+
+header {
+display: flex;
+padding: 15px;
+justify-content: space-between;
+}
+
+
+/* ログイン・サインアップ */
+.menu {
+display: flex;
+justify-content: flex-end;
+font-size: 20px;
+}
+
+.container {
+    display: flex;
+    width: 500px;
+    margin: 30px;
+}
+
+.item {
+    border: 2px solid #EC407A;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center; 
+    width: ;
+}
