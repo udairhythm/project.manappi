@@ -16,16 +16,15 @@ justify-content: flex-end;
 font-size: 20px;
 }
 
-.container {
+/* .container {
     display: flex;
     width: 500px;
     margin: 30px;
-}
+} */
 
-.item {
+/* .item {
     border: 2px solid #EC407A;
     padding: 10px;
     border-radius: 10px;
     text-align: center; 
-    width: ;
-}
+} */
