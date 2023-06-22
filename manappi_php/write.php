@@ -1,7 +1,8 @@
 <?php
 // inputから受け取る
 $name = $_POST['name'];
-$birthPlace = $_POST['birthPlace'];
+$email = $_POST['email'];
+$birthday = $_POST['birthday']
 
 // データを整形する
 $data = $name . $birthPlace . "\n";
