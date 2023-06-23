@@ -46,11 +46,30 @@ header {
     justify-content: center;
   }
 
+
+  .survey_btn {
+    display: flex;
+    font-size: 16px;
+    margin: 10px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #EC407A;
+    background-color: #fff;
+    border: 2px solid #EC407A;
+  }
+
+  .survey_btn:hover {
+    background: #EC407A;
+    color: #fff;
+  }
+
   .login_btn {
     display: flex;
     font-size: 16px;
     margin: 10px;
-    width: 100px;
+    width: 120px;
     padding: 10px;
     border-radius: 10px;
     justify-content: center;
@@ -69,7 +88,7 @@ header {
     display: flex;
     font-size: 16px;
     margin: 10px;
-    width: 100px;
+    width: 120px;
     padding: 10px;
     border-radius: 10px;
     justify-content: center;

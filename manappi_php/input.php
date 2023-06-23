@@ -2,7 +2,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>課題テンプレート</title>
+    <title>manappiアンケート</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body>
